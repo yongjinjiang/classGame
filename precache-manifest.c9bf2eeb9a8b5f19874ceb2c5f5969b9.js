@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db5b9b1661f2555bb626df40b08fcdf3",
+    "revision": "aa4267fb69e75bc727aa27e31579b804",
     "url": "/classGame/index.html"
   },
   {
-    "revision": "f6932f3815518ec2f49a",
+    "revision": "6d7d85f5848589496c0c",
     "url": "/classGame/static/css/main.0a39a5e5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/classGame/static/js/2.1dd8058c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6932f3815518ec2f49a",
-    "url": "/classGame/static/js/main.cb484845.chunk.js"
+    "revision": "6d7d85f5848589496c0c",
+    "url": "/classGame/static/js/main.ced1743a.chunk.js"
   },
   {
     "revision": "d49e40e5037e0eaf5046",
