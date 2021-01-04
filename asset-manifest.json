@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/classGame/static/css/main.0a39a5e5.chunk.css",
+    "main.js": "/classGame/static/js/main.3f633595.chunk.js",
+    "main.js.map": "/classGame/static/js/main.3f633595.chunk.js.map",
+    "runtime-main.js": "/classGame/static/js/runtime-main.13c55bcf.js",
+    "runtime-main.js.map": "/classGame/static/js/runtime-main.13c55bcf.js.map",
+    "static/js/2.1dd8058c.chunk.js": "/classGame/static/js/2.1dd8058c.chunk.js",
+    "static/js/2.1dd8058c.chunk.js.map": "/classGame/static/js/2.1dd8058c.chunk.js.map",
+    "index.html": "/classGame/index.html",
+    "precache-manifest.63f5cfa8d0a118b348d241805f78eb8e.js": "/classGame/precache-manifest.63f5cfa8d0a118b348d241805f78eb8e.js",
+    "service-worker.js": "/classGame/service-worker.js",
+    "static/css/main.0a39a5e5.chunk.css.map": "/classGame/static/css/main.0a39a5e5.chunk.css.map",
+    "static/js/2.1dd8058c.chunk.js.LICENSE.txt": "/classGame/static/js/2.1dd8058c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13c55bcf.js",
+    "static/js/2.1dd8058c.chunk.js",
+    "static/css/main.0a39a5e5.chunk.css",
+    "static/js/main.3f633595.chunk.js"
+  ]
+}
